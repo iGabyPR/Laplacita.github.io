@@ -113,6 +113,12 @@ name: C̷u̷b̷a̷n̷e̷z̷
 tier: 3
 time: 0
 date: 31/12/1990 17:30
+@vip
+name: Cuervito_
+tier: 6
+time: 0
+date: 31/12/1990 17:30
+
 
 
 
